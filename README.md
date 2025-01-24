@@ -50,11 +50,15 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 ---
 #### Western Developers Society
 
+(In progress, Private Repository)
+
 * Developing a system with a team of 5 to identify the closest hospital for users by factoring in wait times, ensuring the most efficient access to treatment.
 * Utilizing Supabase as the database to securely store user and hospital information, ensuring data integrity and scalability.
 * Integrating Mapbox to calculate hospital distances and identify the nearest facilities based on user location.
 ---
 #### Western AI
+
+(In progress, Private Repository)
 
 * Developing LSTM-based machine learning models in Python to analyze biosensor data for real-time, non-invasive glucose monitoring.
 * Collaborating with a team to integrate predictive algorithms into a mobile app, ensuring seamless functionality and user-friendly design.
