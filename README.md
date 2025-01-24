@@ -1,4 +1,4 @@
-# Hassan's GitHub!
+# Hassan's GitHub! 🌟
 
 Hello 👋 my name is Hassan. I’m a third-year Computer Science student at Western University with a strong passion for programming and a curiosity for exploring new technologies. Eager to tackle complex challenges and contribute to innovative software projects. I am always happy to chat, feel free to reach out!
 
@@ -6,10 +6,10 @@ Connect with me on **[LinkedIn](www.linkedin.com/in/hzeesha)**
 
 ---
 
-## Projects
+## 💻 Projects
 ---
 
-#### [NBA Match Predictor](https://github.com/hzeesha/NBAmatchPredictor) 
+### 🏀 [NBA Match Predictor](https://github.com/hzeesha/NBAmatchPredictor) 
 
 Developed an end-to-end NBA game outcome prediction pipeline using data scraping, feature engineering, and machine learning
 *  Data Scraping: Used Playwright and BeautifulSoup to extract NBA box scores (2019-2024).
@@ -19,7 +19,7 @@ Developed an end-to-end NBA game outcome prediction pipeline using data scraping
 *  Automation: Provided pre-processed data and trained models for streamlined use.
 *  Tools: Python, scikit-learn, Playwright, BeautifulSoup.
 ---
-#### [Syllabus Automation](https://github.com/hzeesha/syllabus-automation) 
+### 📅 [Syllabus Automation](https://github.com/hzeesha/syllabus-automation) 
 
 Developed an automated system to extract due dates from course syllabi and add them to Google Calendar, simplifying academic planning.
 * PDF Parsing: Extracted text using pdfminer and identified dates with regular expressions.
@@ -28,7 +28,7 @@ Developed an automated system to extract due dates from course syllabi and add t
 * Event Categorization: Classified events (e.g., assignments, quizzes, midterms) based on keywords.
 * Tools: Python, pdfminer, google-auth, google-api-python-client, dateutil.
 ---
-#### [AI Vault](https://dorahacks.io/buidl/21659/)
+### 🔒 [AI Vault](https://dorahacks.io/buidl/21659/)
 
 My team and I developed a secure marketplace for AI models during **UofTHacks 12**, enabling developers to upload, manage, and sell their work while protecting data privacy and intellectual property.
 * Purpose: Addressed challenges in securely sharing and selling AI models while promoting responsible usage.
@@ -39,7 +39,7 @@ My team and I developed a secure marketplace for AI models during **UofTHacks 12
   - Database: MongoDB.
 * Next Steps: Integrate Midnight’s security protocols for enhanced transaction protection and data privacy.
 ---
-#### [Bike Paths Game](https://github.com/hzeesha/Bike-Paths-Game)
+#### 🚴‍♂️ [Bike Paths Game](https://github.com/hzeesha/Bike-Paths-Game)
 
 Developed a Java program to find optimal bike paths in a National Park using custom data structures and algorithms.
 * Pathfinding Logic: Designed an algorithm to compute safe paths from the park's entrance to treasure chambers while avoiding hazards.
@@ -48,7 +48,7 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 * Algorithm Implementation: Used stack-based traversal to track visited chambers and maintain path constraints.
 * Tools: Java, doubly linked lists, stacks.
 ---
-#### Western Developers Society
+### 🏥 Western Developers Society
 
 (In progress, Private Repository)
 
@@ -56,7 +56,7 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 * Utilizing Supabase as the database to securely store user and hospital information, ensuring data integrity and scalability.
 * Integrating Mapbox to calculate hospital distances and identify the nearest facilities based on user location.
 ---
-#### Western AI
+### 🤖 Western AI
 
 (In progress, Private Repository)
 
@@ -65,7 +65,7 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 * Refining AI models to improve accuracy and efficiency while adhering to medical industry standards.
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 * **Languages:** Java, Python, HTML, CSS, JavaScript, C, ARM7 Assembly, C#
 * **Databases:** Supabase, SQL
