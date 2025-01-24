@@ -2,6 +2,8 @@
 
 Hello 👋 my name is Hassan. I’m a third-year Computer Science student at Western University with a strong passion for programming and a curiosity for exploring new technologies. Eager to tackle complex challenges and contribute to innovative software projects. I am always happy to chat, feel free to reach out!
 
+Connect with me on **[LinkedIn](www.linkedin.com/in/hzeesha)**
+
 ---
 
 ## Projects
@@ -32,11 +34,19 @@ My team and I developed a secure marketplace for AI models during **UofTHacks 12
 * Purpose: Addressed challenges in securely sharing and selling AI models while promoting responsible usage.
 * Key Features: Streamlined platform for showcasing, purchasing, and integrating AI models securely.
 * Technologies:
-  - **Frontend**: HTML, CSS, Tailwind CSS.
-  - **Backend**: Node.js, JavaScript, Express.js.
-  - **Database**: MongoDB.
+  - Frontend: HTML, CSS, Tailwind CSS.
+  - Backend: Node.js, JavaScript, Express.js.
+  - Database: MongoDB.
 * Next Steps: Integrate Midnight’s security protocols for enhanced transaction protection and data privacy.
- 
+---
+### [Bike Paths Game](https://github.com/hzeesha/Bike-Paths-Game)
+
+Developed a Java program to find optimal bike paths in a National Park using custom data structures and algorithms.
+* Pathfinding Logic: Designed an algorithm to compute safe paths from the park's entrance to treasure chambers while avoiding hazards.
+* Data Structures: Implemented a custom stack (DLStack) using doubly linked lists for efficient path management.
+* Chamber Prioritization: Prioritized treasure chambers, lighted chambers, and dim chambers during navigation.
+* Algorithm Implementation: Used stack-based traversal to track visited chambers and maintain path constraints.
+* Tools: Java, doubly linked lists, stacks.
 
 
 
