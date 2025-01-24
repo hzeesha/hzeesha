@@ -39,7 +39,7 @@ My team and I developed a secure marketplace for AI models during **UofTHacks 12
   - Database: MongoDB.
 * Next Steps: Integrate Midnight’s security protocols for enhanced transaction protection and data privacy.
 ---
-#### 🚴‍♂️ [Bike Paths Game](https://github.com/hzeesha/Bike-Paths-Game)
+### 🚴‍♂️ [Bike Paths Game](https://github.com/hzeesha/Bike-Paths-Game)
 
 Developed a Java program to find optimal bike paths in a National Park using custom data structures and algorithms.
 * Pathfinding Logic: Designed an algorithm to compute safe paths from the park's entrance to treasure chambers while avoiding hazards.
