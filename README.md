@@ -47,13 +47,23 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 * Chamber Prioritization: Prioritized treasure chambers, lighted chambers, and dim chambers during navigation.
 * Algorithm Implementation: Used stack-based traversal to track visited chambers and maintain path constraints.
 * Tools: Java, doubly linked lists, stacks.
+---
+### Western Developers Society
 
+* Developing a system with a team of 5 to identify the closest hospital for users by factoring in wait times, ensuring the most efficient access to treatment.
+* Utilizing Supabase as the database to securely store user and hospital information, ensuring data integrity and scalability.
+* Integrating Mapbox to calculate hospital distances and identify the nearest facilities based on user location.
+---
+### Western AI
 
+* Developing LSTM-based machine learning models in Python to analyze biosensor data for real-time, non-invasive glucose monitoring.
+* Collaborating with a team to integrate predictive algorithms into a mobile app, ensuring seamless functionality and user-friendly design.
+* Refining AI models to improve accuracy and efficiency while adhering to medical industry standards.
+---
 
+### Technical Skills
 
-
-
-
-
-
-  
+* **Languages:** Java, Python, HTML, CSS, JavaScript, C, ARM7 Assembly, C#
+* **Databases:** Supabase, SQL
+* **Tools & Platforms:** Git, Linux, UNIX, Bash, Figma, Android Studio
+* **Other:** Object-Oriented Programming (OOP), RESTful APIs, Playwright, Unit Testing, Debugging, Documentation Writing
