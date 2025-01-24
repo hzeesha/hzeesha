@@ -61,7 +61,7 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 * Refining AI models to improve accuracy and efficiency while adhering to medical industry standards.
 ---
 
-#### Technical Skills
+## Technical Skills
 
 * **Languages:** Java, Python, HTML, CSS, JavaScript, C, ARM7 Assembly, C#
 * **Databases:** Supabase, SQL
