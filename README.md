@@ -16,7 +16,7 @@ Developed an end-to-end NBA game outcome prediction pipeline using data scraping
 *  Prediction Interface: Designed a CLI for easy input and winner predictions.
 *  Automation: Provided pre-processed data and trained models for streamlined use.
 *  Tools: Python, scikit-learn, Playwright, BeautifulSoup.
-
+---
 ### [Syllabus Automation](https://github.com/hzeesha/syllabus-automation) 
 
 Developed an automated system to extract due dates from course syllabi and add them to Google Calendar, simplifying academic planning.
@@ -25,6 +25,20 @@ Developed an automated system to extract due dates from course syllabi and add t
 * Calendar Integration: Added events with automatic 1-day popup and 2-day email reminders.
 * Event Categorization: Classified events (e.g., assignments, quizzes, midterms) based on keywords.
 * Tools: Python, pdfminer, google-auth, google-api-python-client, dateutil.
+---
+### [AI Vault](https://dorahacks.io/buidl/21659/)
+
+My team and I developed a secure marketplace for AI models during **UofTHacks 12**, enabling developers to upload, manage, and sell their work while protecting data privacy and intellectual property.
+* Purpose: Addressed challenges in securely sharing and selling AI models while promoting responsible usage.
+* Key Features: Streamlined platform for showcasing, purchasing, and integrating AI models securely.
+* Technologies:
+  - **Frontend**: HTML, CSS, Tailwind CSS.
+  - **Backend**: Node.js, JavaScript, Express.js.
+  - **Database**: MongoDB.
+* Next Steps: Integrate Midnight’s security protocols for enhanced transaction protection and data privacy.
+ 
+
+
 
 
 
