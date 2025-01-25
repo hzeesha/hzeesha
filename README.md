@@ -17,7 +17,7 @@ Developed an end-to-end NBA game outcome prediction pipeline using data scraping
 *  Model Training: Built and trained a Ridge Classifier for game outcome predictions.
 *  Prediction Interface: Designed a CLI for easy input and winner predictions.
 *  Automation: Provided pre-processed data and trained models for streamlined use.
-*  Tools: Python, scikit-learn, Playwright, BeautifulSoup.
+*  Tools: Python, numpy, scikit-learn, Playwright, BeautifulSoup.
 ---
 ### 📅 [Syllabus Automation](https://github.com/hzeesha/syllabus-automation) 
 
@@ -69,5 +69,5 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 
 * **Languages:** Java, Python, HTML, CSS, JavaScript, C, ARM7 Assembly, C#
 * **Databases:** Supabase, SQL
-* **Tools & Platforms:** Git, Linux, UNIX, Bash, Figma, Android Studio
-* **Other:** Object-Oriented Programming (OOP), RESTful APIs, Playwright, Unit Testing, Debugging, Documentation Writing
+* **Tools & Platforms:** Git, Linux, UNIX, Bash, Figma, Android Studio, Jupyter
+* **Other**: Object-Oriented Programming (OOP), RESTful APIs, Playwright, NumPy, Scikit-learn, Unit Testing, Debugging, Documentation Writing
