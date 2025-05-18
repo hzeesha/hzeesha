@@ -58,11 +58,11 @@ Developed a Java program to find optimal bike paths in a National Park using cus
 ---
 ### 🤖 Western AI
 
-(In progress, Private Repository)
+(Private Repository)
 
-* Developing LSTM-based machine learning models in Python to analyze biosensor data for real-time, non-invasive glucose monitoring.
-* Collaborating with a team to integrate predictive algorithms into a mobile app, ensuring seamless functionality and user-friendly design.
-* Refining AI models to improve accuracy and efficiency while adhering to medical industry standards.
+* Developed machine learning models to analyze and process large datasets for real-time predictive analytics, ensuring data accuracy and reliability for decision-making.
+* Integrated predictive algorithms into a mobile app with a focus on functionality and UX.
+* Refined AI algorithms to maximize accuracy and efficiency, achieving an 88% accuracy score while ensuring compliance with medical industry standards.
 ---
 
 ## 🛠️ Technical Skills
